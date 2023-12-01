@@ -1,6 +1,6 @@
 # SuperAGI_tasks
 # Task 1 
-GPT2-small model (with 125 million parameters) model has downloaded form hugging face . Make sure you touch upon the key aspects of the model like multi-head self-attention mechanism, feed-forward networks and positional encoding.
+GPT2-small model (with 125 million parameters) model has downloaded form hugging face .
 It has code for implementation of Multi-Head Self Attention (MHA), The Feed-forward module and the LayerNorm layer as per the original GPT2 architecture proposed in the paper. Andrei Karpathy's nanogpt repository helped me as the major reference in implementation
 
 # TASK 2
